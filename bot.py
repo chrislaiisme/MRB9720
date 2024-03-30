@@ -1,5 +1,5 @@
 LOCAL = 0
-TOKEN = "secret"
+TOKEN = "hidden"
 
 import discord
 import math
