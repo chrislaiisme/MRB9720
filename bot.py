@@ -76,4 +76,4 @@ async def record(interaction: discord.Interaction, word: str, person: Choice[int
 async def record(interaction: discord.Interaction, person: Choice[int]):
     await interaction.response.send_message(person.name + ' 你超可悲')
 
-bot.run("MTIyMTgwMTk2Nzc3MzQyMTY4OA.GIworO._TBAUYbrJDGgw7WuZ3-Xz29izM7RZmK7Iuruqo")
+bot.run("secret")
